@@ -5,7 +5,7 @@ Aruba grommet theme
 ## Installation
 
 ```
-  $ yarn install grommet-theme-aruba
+  $ yarn add grommet-theme-aruba
 ```
 
 ## Usage
