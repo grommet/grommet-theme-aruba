@@ -39,7 +39,10 @@ export const aruba = deepFreeze({
     },
   },
   anchor: {
-    color: '#000000',
+    color: {
+      dark: 'brand',
+      light: '#000000',
+    },
   },
   button: {
     extend: css`
