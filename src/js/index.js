@@ -16,7 +16,10 @@ export const aruba = deepFreeze({
     colors: {
       background: '#ffffff',
       brand: '#ED6F00',
-      control: '#ED6F00',
+      control: {
+        dark: '#EF8B27',
+        light: '#ED6F00',
+      },
       focus: '#FFED00',
       'neutral-1': '#646569',
       'neutral-2': '#004876',
