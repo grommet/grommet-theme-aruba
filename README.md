@@ -16,3 +16,5 @@ import { aruba } from 'grommet-theme-aruba';
 
 <Grommet theme={aruba} />
 ```
+
+![Sample](./sample.png)
